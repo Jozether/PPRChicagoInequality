@@ -3,7 +3,7 @@ library(sf)
 library(tidygeocoder)
 library(readxl)
 library(gridExtra)
-
+##
 ##Neighborhood Boundaries
 neighborhoods <- st_read("/Users/josetorres/Downloads/Boundaries - Community Areas (current)")
 neighborhoods <- neighborhoods%>%
