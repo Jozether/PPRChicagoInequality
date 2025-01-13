@@ -1,0 +1,1 @@
+This code is from my final project in **Intro to Data Science (PSCI 1800)**, which I further developed and published as an article in the **Penn Political Review Winter 2023 Edition**. You can find the article [here](https://penngpa.com/ppr-winter-2023-edition/).
